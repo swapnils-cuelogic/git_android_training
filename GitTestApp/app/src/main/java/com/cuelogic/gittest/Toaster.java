@@ -13,7 +13,7 @@ import static android.widget.Toast.LENGTH_SHORT;
 public class Toaster {
 
     private static void show(final Activity activity, final int resId, final int duration) {
-        if (activity == null)
+        if (activity != null)
             return;
 
         final Context context = activity.getApplication();
