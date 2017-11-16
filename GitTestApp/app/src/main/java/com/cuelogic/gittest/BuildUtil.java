@@ -10,7 +10,7 @@ public class BuildUtil {
         if (BuildConfig.DEBUG) {
             mEmailid ="anand.lilhare@cuelogic.com";
         }else{
-            mEmailid ="kjohnson@blacklinesafety.com";
+            mEmailid ="anandlilhare69@gmail.com";
         }
         return mEmailid.trim();
     }
