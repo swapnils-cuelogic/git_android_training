@@ -1,7 +1,7 @@
 package com.cuelogic.gittest;
 
 /**
- * Created by cue on 9/20/17.
+ * Created by Anand on 9/20/17.
  */
 
 public class BuildUtil {
