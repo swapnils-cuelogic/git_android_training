@@ -7,4 +7,5 @@ package com.cuelogic.gittest;
 public class Constant {
     // adding comment1
     //adding comment 2
+    //adding comment 3
 }
