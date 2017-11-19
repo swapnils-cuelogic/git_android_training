@@ -5,4 +5,5 @@ package com.cuelogic.gittest;
  */
 
 public class Constant {
+    // adding comment1
 }
