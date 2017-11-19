@@ -10,11 +10,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toaster.showShort(this, "Addition: " + addition(4, 5));
-        //added first message
-        //added second message
+
     }
 
     private int addition(int num1, int num2) {
         return num1 + num2;
+        // following function return an addition of two number"
+    }
+    private int subbtraction(int num1, int num2) {
+        return num1 - num2;
+        // following function return an  subtraction  of two number"
     }
 }
